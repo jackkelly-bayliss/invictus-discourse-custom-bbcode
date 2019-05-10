@@ -4,4 +4,4 @@
 # authors: Jack Hansen
 # url: https://github.com/jackkelly-bayliss/invictus-discourse-custom-bbcode
 
-hide_plugin if self.respond_to?(:hide_plugin)
+# hide_plugin if self.respond_to?(:hide_plugin)

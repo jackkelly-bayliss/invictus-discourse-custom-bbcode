@@ -1,0 +1,3 @@
+enabled_custombbcodes: 
+  default: true
+  description: 'Enable/Disable custom bbcodes.'
